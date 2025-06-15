@@ -34,11 +34,12 @@ Welcome Back sir Mohamed
 
 
 2. Compile using g++:
+```bash
+g++ password_checker.cpp -o checker
 
-```g++ password_checker.cpp -o checker
 3. Run it
-
-```./checker
+```bash
+./checker
 
 ---
 
