@@ -40,6 +40,7 @@ g++ password_checker.cpp -o checker
 3. Run it
 ```bash
 ./checker
+```
 
 ---
 
